@@ -1,6 +1,6 @@
 ---
 # Abdullah Almutaywia
-Software and DevOps engineer, Cloud architect, Instructor.
+DevOps engineer , Site reliability engineer.
 
 <div id="webaddress">
 <a href="abdullah01455@hotmail.com">abdullah01455@hotmail.com</a>
@@ -10,39 +10,28 @@ Software and DevOps engineer, Cloud architect, Instructor.
 
 ## Currently
 
-Lead DevOps instructor at Coding Dojo
+Site reliability engineer at Lean business services 
 
 ### Specialized in
 
-AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
+AWS Cloud, Linux & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
 
 
 
 ## Education
 
-NAME of your Uni
+
+College of Technology Mrchanical Engineering
+SDA DevOps Bootcamp
+
+## Certitications
+
+DevOps Engineer Foundation - Devops university
+Building Centralized Log Platform using Elk - Tuwaiq Academy
+Devops orchestration - SDA
 
 
-
-## Awards
-
-LIST of award
-
-
-
-## Publications
-
-Gait analysis based human recognition system `April 2016`
-
-## Occupation
-
-`Codingdojo` — Lead DevOps Cloud instructor
-
-## Projects
-
-ANY project
-
-<p><a href="https://github.com/abdullah01455/resume"><em><span style="color:#ffffff"><strong><span style="font-size:18px"><span style="background-color:#2ecc71">Abdullah Almutaywia</span></span></strong></span></em><span style="background-color:#000000">😄</span></a></p>
+<p><a href="https://www.linkedin.com/in/abdullah-almutaywia"><em><span style="color:#ffffff"><strong><span style="font-size:18px"><span style="background-color:#2ecc71">Linkeden</span></span></strong></span></em><span style="background-color:#000000">😄</span></a></p>
 
 <!-- ### Footer
 
